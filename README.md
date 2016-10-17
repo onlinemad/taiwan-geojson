@@ -1,2 +1,2 @@
-# twgeojson
+# taiwan-geojson
 Taiwan GeoJSON
