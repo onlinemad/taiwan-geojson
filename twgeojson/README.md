@@ -10,6 +10,10 @@
 
 移除 `(海)` 的 Polygon
 
-## twTown1982.geo.tiny.min.json
+## twTown1982.geo.tiny.json
 
 從 `twTown1982.geo.json` remove null geometry Feature 以及 minify 來的
+
+## twTown1982.geo.tiny.zh_en.json
+
+從 `twTown1982.geo.tiny.json` 查詢鄉鎮市中英對照，將鄉鎮市中英對照寫入 geojson 內

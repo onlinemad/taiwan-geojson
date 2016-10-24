@@ -1,0 +1,1595 @@
+{
+  "基隆市": {
+    "en": " Keelung City",
+    "districts": {
+      "仁愛區": {
+        "zipcode": "200",
+        "en": "Ren’ai Dist."
+      },
+      "信義區": {
+        "zipcode": "201",
+        "en": "Xinyi Dist."
+      },
+      "中正區": {
+        "zipcode": "202",
+        "en": "Zhongzheng Dist."
+      },
+      "中山區": {
+        "zipcode": "203",
+        "en": "Zhongshan Dist."
+      },
+      "安樂區": {
+        "zipcode": "204",
+        "en": "Anle Dist."
+      },
+      "暖暖區": {
+        "zipcode": "205",
+        "en": "Nuannuan Dist."
+      },
+      "七堵區": {
+        "zipcode": "206",
+        "en": "Qidu Dist."
+      }
+    }
+  },
+  "臺北市": {
+    "en": " Taipei City",
+    "districts": {
+      "中正區": {
+        "zipcode": "100",
+        "en": "Zhongzheng Dist."
+      },
+      "大同區": {
+        "zipcode": "103",
+        "en": "Datong Dist."
+      },
+      "中山區": {
+        "zipcode": "104",
+        "en": "Zhongshan Dist."
+      },
+      "松山區": {
+        "zipcode": "105",
+        "en": "Songshan Dist."
+      },
+      "大安區": {
+        "zipcode": "106",
+        "en": "Da’an Dist."
+      },
+      "萬華區": {
+        "zipcode": "108",
+        "en": "Wanhua Dist."
+      },
+      "信義區": {
+        "zipcode": "110",
+        "en": "Xinyi Dist."
+      },
+      "士林區": {
+        "zipcode": "111",
+        "en": "Shilin Dist."
+      },
+      "北投區": {
+        "zipcode": "112",
+        "en": "Beitou Dist."
+      },
+      "內湖區": {
+        "zipcode": "114",
+        "en": "Neihu Dist."
+      },
+      "南港區": {
+        "zipcode": "115",
+        "en": "Nangang Dist."
+      },
+      "文山區": {
+        "zipcode": "116",
+        "en": "Wenshan Dist."
+      }
+    }
+  },
+  "新北市": {
+    "en": " New Taipei City",
+    "districts": {
+      "萬里區": {
+        "zipcode": "207",
+        "en": "Wanli Dist."
+      },
+      "金山區": {
+        "zipcode": "208",
+        "en": "Jinshan Dist."
+      },
+      "板橋區": {
+        "zipcode": "220",
+        "en": "Banqiao Dist."
+      },
+      "汐止區": {
+        "zipcode": "221",
+        "en": "Xizhi Dist."
+      },
+      "深坑區": {
+        "zipcode": "222",
+        "en": "Shenkeng Dist."
+      },
+      "石碇區": {
+        "zipcode": "223",
+        "en": "Shiding Dist."
+      },
+      "瑞芳區": {
+        "zipcode": "224",
+        "en": "Ruifang Dist."
+      },
+      "平溪區": {
+        "zipcode": "226",
+        "en": "Pingxi Dist."
+      },
+      "雙溪區": {
+        "zipcode": "227",
+        "en": "Shuangxi Dist."
+      },
+      "貢寮區": {
+        "zipcode": "228",
+        "en": "Gongliao Dist."
+      },
+      "新店區": {
+        "zipcode": "231",
+        "en": "Xindian Dist."
+      },
+      "坪林區": {
+        "zipcode": "232",
+        "en": "Pinglin Dist."
+      },
+      "烏來區": {
+        "zipcode": "233",
+        "en": "Wulai Dist."
+      },
+      "永和區": {
+        "zipcode": "234",
+        "en": "Yonghe Dist."
+      },
+      "中和區": {
+        "zipcode": "235",
+        "en": "Zhonghe Dist."
+      },
+      "土城區": {
+        "zipcode": "236",
+        "en": "Tucheng Dist."
+      },
+      "三峽區": {
+        "zipcode": "237",
+        "en": "Sanxia Dist."
+      },
+      "樹林區": {
+        "zipcode": "238",
+        "en": "Shulin Dist."
+      },
+      "鶯歌區": {
+        "zipcode": "239",
+        "en": "Yingge Dist."
+      },
+      "三重區": {
+        "zipcode": "241",
+        "en": "Sanchong Dist."
+      },
+      "新莊區": {
+        "zipcode": "242",
+        "en": "Xinzhuang Dist."
+      },
+      "泰山區": {
+        "zipcode": "243",
+        "en": "Taishan Dist."
+      },
+      "林口區": {
+        "zipcode": "244",
+        "en": "Linkou Dist."
+      },
+      "蘆洲區": {
+        "zipcode": "247",
+        "en": "Luzhou Dist."
+      },
+      "五股區": {
+        "zipcode": "248",
+        "en": "Wugu Dist."
+      },
+      "八里區": {
+        "zipcode": "249",
+        "en": "Bali Dist."
+      },
+      "淡水區": {
+        "zipcode": "251",
+        "en": "Tamsui Dist."
+      },
+      "三芝區": {
+        "zipcode": "252",
+        "en": "Sanzhi Dist."
+      },
+      "石門區": {
+        "zipcode": "253",
+        "en": "Shimen Dist."
+      }
+    }
+  },
+  "宜蘭縣": {
+    "districts": {
+      "宜蘭市": {
+        "zipcode": "260",
+        "en": "Yilan City"
+      },
+      "頭城鎮": {
+        "zipcode": "261",
+        "en": "Toucheng Township"
+      },
+      "礁溪鄉": {
+        "zipcode": "262",
+        "en": "Jiaoxi Township"
+      },
+      "壯圍鄉": {
+        "zipcode": "263",
+        "en": "Zhuangwei Township"
+      },
+      "員山鄉": {
+        "zipcode": "264",
+        "en": "Yuanshan Township"
+      },
+      "羅東鎮": {
+        "zipcode": "265",
+        "en": "Luodong Township"
+      },
+      "三星鄉": {
+        "zipcode": "266",
+        "en": "Sanxing Township"
+      },
+      "大同鄉": {
+        "zipcode": "267",
+        "en": "Datong Township"
+      },
+      "五結鄉": {
+        "zipcode": "268",
+        "en": "Wujie Township"
+      },
+      "冬山鄉": {
+        "zipcode": "269",
+        "en": "Dongshan Township"
+      },
+      "蘇澳鎮": {
+        "zipcode": "270",
+        "en": "Su’ao Township"
+      },
+      "南澳鄉": {
+        "zipcode": "272",
+        "en": "Nan’ao Township"
+      },
+      "釣魚台列嶼": {
+        "zipcode": "290",
+        "en": "Diaoyutai"
+      }
+    }
+  },
+  "新竹市": {
+    "en": " Hsinchu City",
+    "districts": {
+      "東區": {
+        "zipcode": "300",
+        "en": "Xiangshan Dist."
+      },
+      "北區": {
+        "zipcode": "300",
+        "en": "Xiangshan Dist."
+      },
+      "香山區": {
+        "zipcode": "300",
+        "en": "Xiangshan Dist."
+      }
+    }
+  },
+  "新竹縣": {
+    "en": " Hsinchu County",
+    "districts": {
+      "竹北市": {
+        "zipcode": "302",
+        "en": "Zhubei City"
+      },
+      "湖口鄉": {
+        "zipcode": "303",
+        "en": "Hukou Township"
+      },
+      "新豐鄉": {
+        "zipcode": "304",
+        "en": "Xinfeng Township"
+      },
+      "新埔鎮": {
+        "zipcode": "305",
+        "en": "Xinpu Township"
+      },
+      "關西鎮": {
+        "zipcode": "306",
+        "en": "Guanxi Township"
+      },
+      "芎林鄉": {
+        "zipcode": "307",
+        "en": "Qionglin Township"
+      },
+      "寶山鄉": {
+        "zipcode": "308",
+        "en": "Baoshan Township"
+      },
+      "竹東鎮": {
+        "zipcode": "310",
+        "en": "Zhudong Township"
+      },
+      "五峰鄉": {
+        "zipcode": "311",
+        "en": "Wufeng Township"
+      },
+      "橫山鄉": {
+        "zipcode": "312",
+        "en": "Hengshan Township"
+      },
+      "尖石鄉": {
+        "zipcode": "313",
+        "en": "Jianshi Township"
+      },
+      "北埔鄉": {
+        "zipcode": "314",
+        "en": "Beipu Township"
+      },
+      "峨眉鄉": {
+        "zipcode": "315",
+        "en": "Emei Township"
+      }
+    }
+  },
+  "桃園市": {
+    "en": " Taoyuan City",
+    "districts": {
+      "中壢區": {
+        "zipcode": "320",
+        "en": "Zhongli Dist."
+      },
+      "平鎮區": {
+        "zipcode": "324",
+        "en": "Pingzhen Dist."
+      },
+      "龍潭區": {
+        "zipcode": "325",
+        "en": "Longtan Dist."
+      },
+      "楊梅區": {
+        "zipcode": "326",
+        "en": "Yangmei Dist."
+      },
+      "新屋區": {
+        "zipcode": "327",
+        "en": "Xinwu Dist."
+      },
+      "觀音區": {
+        "zipcode": "328",
+        "en": "Guanyin Dist."
+      },
+      "桃園區": {
+        "zipcode": "330",
+        "en": "Taoyuan Dist."
+      },
+      "龜山區": {
+        "zipcode": "333",
+        "en": "Guishan Dist."
+      },
+      "八德區": {
+        "zipcode": "334",
+        "en": "Bade Dist."
+      },
+      "大溪區": {
+        "zipcode": "335",
+        "en": "Daxi Dist."
+      },
+      "復興區": {
+        "zipcode": "336",
+        "en": "Fuxing Dist."
+      },
+      "大園區": {
+        "zipcode": "337",
+        "en": "Dayuan Dist."
+      },
+      "蘆竹區": {
+        "zipcode": "338",
+        "en": "Luzhu Dist."
+      }
+    }
+  },
+  "苗栗縣": {
+    "en": " Miaoli County",
+    "districts": {
+      "竹南鎮": {
+        "zipcode": "350",
+        "en": "Zhunan Township"
+      },
+      "頭份市": {
+        "zipcode": "351",
+        "en": "Toufen City"
+      },
+      "三灣鄉": {
+        "zipcode": "352",
+        "en": "Sanwan Township"
+      },
+      "南庄鄉": {
+        "zipcode": "353",
+        "en": "Nanzhuang Township"
+      },
+      "獅潭鄉": {
+        "zipcode": "354",
+        "en": "Shitan Township"
+      },
+      "後龍鎮": {
+        "zipcode": "356",
+        "en": "Houlong Township"
+      },
+      "通霄鎮": {
+        "zipcode": "357",
+        "en": "Tongxiao Township"
+      },
+      "苑裡鎮": {
+        "zipcode": "358",
+        "en": "Yuanli Township"
+      },
+      "苗栗市": {
+        "zipcode": "360",
+        "en": "Miaoli City"
+      },
+      "造橋鄉": {
+        "zipcode": "361",
+        "en": "Zaoqiao Township"
+      },
+      "頭屋鄉": {
+        "zipcode": "362",
+        "en": "Touwu Township"
+      },
+      "公館鄉": {
+        "zipcode": "363",
+        "en": "Gongguan Township"
+      },
+      "大湖鄉": {
+        "zipcode": "364",
+        "en": "Dahu Township"
+      },
+      "泰安鄉": {
+        "zipcode": "365",
+        "en": "Tai’an Township"
+      },
+      "銅鑼鄉": {
+        "zipcode": "366",
+        "en": "Tongluo Township"
+      },
+      "三義鄉": {
+        "zipcode": "367",
+        "en": "Sanyi Township"
+      },
+      "西湖鄉": {
+        "zipcode": "368",
+        "en": "Xihu Township"
+      },
+      "卓蘭鎮": {
+        "zipcode": "369",
+        "en": "Zhuolan Township"
+      }
+    }
+  },
+  "臺中市": {
+    "en": " Taichung City",
+    "districts": {
+      "中區": {
+        "zipcode": "400",
+        "en": "Central Dist."
+      },
+      "東區": {
+        "zipcode": "401",
+        "en": "East Dist."
+      },
+      "南區": {
+        "zipcode": "402",
+        "en": "South Dist."
+      },
+      "西區": {
+        "zipcode": "403",
+        "en": "West Dist."
+      },
+      "北區": {
+        "zipcode": "404",
+        "en": "North Dist."
+      },
+      "北屯區": {
+        "zipcode": "406",
+        "en": "Beitun Dist."
+      },
+      "西屯區": {
+        "zipcode": "407",
+        "en": "Xitun Dist."
+      },
+      "南屯區": {
+        "zipcode": "408",
+        "en": "Nantun Dist."
+      },
+      "太平區": {
+        "zipcode": "411",
+        "en": "Taiping Dist."
+      },
+      "大里區": {
+        "zipcode": "412",
+        "en": "Dali Dist."
+      },
+      "霧峰區": {
+        "zipcode": "413",
+        "en": "Wufeng Dist."
+      },
+      "烏日區": {
+        "zipcode": "414",
+        "en": "Wuri Dist."
+      },
+      "豐原區": {
+        "zipcode": "420",
+        "en": "Fengyuan Dist."
+      },
+      "后里區": {
+        "zipcode": "421",
+        "en": "Houli Dist."
+      },
+      "石岡區": {
+        "zipcode": "422",
+        "en": "Shigang Dist."
+      },
+      "東勢區": {
+        "zipcode": "423",
+        "en": "Dongshi Dist."
+      },
+      "和平區": {
+        "zipcode": "424",
+        "en": "Heping Dist."
+      },
+      "新社區": {
+        "zipcode": "426",
+        "en": "Xinshe Dist."
+      },
+      "潭子區": {
+        "zipcode": "427",
+        "en": "Tanzi Dist."
+      },
+      "大雅區": {
+        "zipcode": "428",
+        "en": "Daya Dist."
+      },
+      "神岡區": {
+        "zipcode": "429",
+        "en": "Shengang Dist."
+      },
+      "大肚區": {
+        "zipcode": "432",
+        "en": "Dadu Dist."
+      },
+      "沙鹿區": {
+        "zipcode": "433",
+        "en": "Shalu Dist."
+      },
+      "龍井區": {
+        "zipcode": "434",
+        "en": "Longjing Dist."
+      },
+      "梧棲區": {
+        "zipcode": "435",
+        "en": "Wuqi Dist."
+      },
+      "清水區": {
+        "zipcode": "436",
+        "en": "Qingshui Dist."
+      },
+      "大甲區": {
+        "zipcode": "437",
+        "en": "Dajia Dist."
+      },
+      "外埔區": {
+        "zipcode": "438",
+        "en": "Waipu Dist."
+      },
+      "大安區": {
+        "zipcode": "439",
+        "en": "Da’an Dist."
+      }
+    }
+  },
+  "彰化縣": {
+    "en": " Changhua County",
+    "districts": {
+      "彰化市": {
+        "zipcode": "500",
+        "en": "Changhua City"
+      },
+      "芬園鄉": {
+        "zipcode": "502",
+        "en": "Fenyuan Township"
+      },
+      "花壇鄉": {
+        "zipcode": "503",
+        "en": "Huatan Township"
+      },
+      "秀水鄉": {
+        "zipcode": "504",
+        "en": "Xiushui Township"
+      },
+      "鹿港鎮": {
+        "zipcode": "505",
+        "en": "Lukang Township"
+      },
+      "福興鄉": {
+        "zipcode": "506",
+        "en": "Fuxing Township"
+      },
+      "線西鄉": {
+        "zipcode": "507",
+        "en": "Xianxi Township"
+      },
+      "和美鎮": {
+        "zipcode": "508",
+        "en": "Hemei Township"
+      },
+      "伸港鄉": {
+        "zipcode": "509",
+        "en": "Shengang Township"
+      },
+      "員林市": {
+        "zipcode": "510",
+        "en": "Yuanlin City"
+      },
+      "社頭鄉": {
+        "zipcode": "511",
+        "en": "Shetou Township"
+      },
+      "永靖鄉": {
+        "zipcode": "512",
+        "en": "Yongjing Township"
+      },
+      "埔心鄉": {
+        "zipcode": "513",
+        "en": "Puxin Township"
+      },
+      "溪湖鎮": {
+        "zipcode": "514",
+        "en": "Xihu Township"
+      },
+      "大村鄉": {
+        "zipcode": "515",
+        "en": "Dacun Township"
+      },
+      "埔鹽鄉": {
+        "zipcode": "516",
+        "en": "Puyan Township"
+      },
+      "田中鎮": {
+        "zipcode": "520",
+        "en": "Tianzhong Township"
+      },
+      "北斗鎮": {
+        "zipcode": "521",
+        "en": "Beidou Township"
+      },
+      "田尾鄉": {
+        "zipcode": "522",
+        "en": "Tianwei Township"
+      },
+      "埤頭鄉": {
+        "zipcode": "523",
+        "en": "Pitou Township"
+      },
+      "溪州鄉": {
+        "zipcode": "524",
+        "en": "Xizhou Township"
+      },
+      "竹塘鄉": {
+        "zipcode": "525",
+        "en": "Zhutang Township"
+      },
+      "二林鎮": {
+        "zipcode": "526",
+        "en": "Erlin Township"
+      },
+      "大城鄉": {
+        "zipcode": "527",
+        "en": "Dacheng Township"
+      },
+      "芳苑鄉": {
+        "zipcode": "528",
+        "en": "Fangyuan Township"
+      },
+      "二水鄉": {
+        "zipcode": "530",
+        "en": "Ershui Township"
+      }
+    }
+  },
+  "南投縣": {
+    "en": " Nantou County",
+    "districts": {
+      "南投市": {
+        "zipcode": "540",
+        "en": "Nantou City"
+      },
+      "中寮鄉": {
+        "zipcode": "541",
+        "en": "Zhongliao Township"
+      },
+      "草屯鎮": {
+        "zipcode": "542",
+        "en": "Caotun Township"
+      },
+      "國姓鄉": {
+        "zipcode": "544",
+        "en": "Guoxing Township"
+      },
+      "埔里鎮": {
+        "zipcode": "545",
+        "en": "Puli Township"
+      },
+      "仁愛鄉": {
+        "zipcode": "546",
+        "en": "Ren’ai Township"
+      },
+      "名間鄉": {
+        "zipcode": "551",
+        "en": "Mingjian Township"
+      },
+      "集集鎮": {
+        "zipcode": "552",
+        "en": "Jiji Township"
+      },
+      "水里鄉": {
+        "zipcode": "553",
+        "en": "Shuili Township"
+      },
+      "魚池鄉": {
+        "zipcode": "555",
+        "en": "Yuchi Township"
+      },
+      "信義鄉": {
+        "zipcode": "556",
+        "en": "Xinyi Township"
+      },
+      "竹山鎮": {
+        "zipcode": "557",
+        "en": "Zhushan Township"
+      },
+      "鹿谷鄉": {
+        "zipcode": "558",
+        "en": "Lugu Township"
+      }
+    }
+  },
+  "嘉義市": {
+    "en": " Chiayi City",
+    "districts": {
+      "東區": {
+        "zipcode": "600",
+        "en": "West Dist."
+      },
+      "西區": {
+        "zipcode": "600",
+        "en": "West Dist."
+      }
+    }
+  },
+  "嘉義縣": {
+    "en": " Chiayi County",
+    "districts": {
+      "番路鄉": {
+        "zipcode": "602",
+        "en": "Fanlu Township"
+      },
+      "梅山鄉": {
+        "zipcode": "603",
+        "en": "Meishan Township"
+      },
+      "竹崎鄉": {
+        "zipcode": "604",
+        "en": "Zhuqi Township"
+      },
+      "阿里山鄉": {
+        "zipcode": "605",
+        "en": "Alishan Township"
+      },
+      "中埔鄉": {
+        "zipcode": "606",
+        "en": "Zhongpu Township"
+      },
+      "大埔鄉": {
+        "zipcode": "607",
+        "en": "Dapu Township"
+      },
+      "水上鄉": {
+        "zipcode": "608",
+        "en": "Shuishang Township"
+      },
+      "鹿草鄉": {
+        "zipcode": "611",
+        "en": "Lucao Township"
+      },
+      "太保市": {
+        "zipcode": "612",
+        "en": "Taibao City"
+      },
+      "朴子市": {
+        "zipcode": "613",
+        "en": "Puzi City"
+      },
+      "東石鄉": {
+        "zipcode": "614",
+        "en": "Dongshi Township"
+      },
+      "六腳鄉": {
+        "zipcode": "615",
+        "en": "Liujiao Township"
+      },
+      "新港鄉": {
+        "zipcode": "616",
+        "en": "Xingang Township"
+      },
+      "民雄鄉": {
+        "zipcode": "621",
+        "en": "Minxiong Township"
+      },
+      "大林鎮": {
+        "zipcode": "622",
+        "en": "Dalin Township"
+      },
+      "溪口鄉": {
+        "zipcode": "623",
+        "en": "Xikou Township"
+      },
+      "義竹鄉": {
+        "zipcode": "624",
+        "en": "Yizhu Township"
+      },
+      "布袋鎮": {
+        "zipcode": "625",
+        "en": "Budai Township"
+      }
+    }
+  },
+  "雲林縣": {
+    "en": " Yunlin County",
+    "districts": {
+      "斗南鎮": {
+        "zipcode": "630",
+        "en": "Dounan Township"
+      },
+      "大埤鄉": {
+        "zipcode": "631",
+        "en": "Dapi Township"
+      },
+      "虎尾鎮": {
+        "zipcode": "632",
+        "en": "Huwei Township"
+      },
+      "土庫鎮": {
+        "zipcode": "633",
+        "en": "Tuku Township"
+      },
+      "褒忠鄉": {
+        "zipcode": "634",
+        "en": "Baozhong Township"
+      },
+      "東勢鄉": {
+        "zipcode": "635",
+        "en": "Dongshi Township"
+      },
+      "臺西鄉": {
+        "zipcode": "636",
+        "en": "Taixi Township"
+      },
+      "崙背鄉": {
+        "zipcode": "637",
+        "en": "Lunbei Township"
+      },
+      "麥寮鄉": {
+        "zipcode": "638",
+        "en": "Mailiao Township"
+      },
+      "斗六市": {
+        "zipcode": "640",
+        "en": "Douliu City"
+      },
+      "林內鄉": {
+        "zipcode": "643",
+        "en": "Linnei Township"
+      },
+      "古坑鄉": {
+        "zipcode": "646",
+        "en": "Gukeng Township"
+      },
+      "莿桐鄉": {
+        "zipcode": "647",
+        "en": "Citong Township"
+      },
+      "西螺鎮": {
+        "zipcode": "648",
+        "en": "Xiluo Township"
+      },
+      "二崙鄉": {
+        "zipcode": "649",
+        "en": "Erlun Township"
+      },
+      "北港鎮": {
+        "zipcode": "651",
+        "en": "Beigang Township"
+      },
+      "水林鄉": {
+        "zipcode": "652",
+        "en": "Shuilin Township"
+      },
+      "口湖鄉": {
+        "zipcode": "653",
+        "en": "Kouhu Township"
+      },
+      "四湖鄉": {
+        "zipcode": "654",
+        "en": "Sihu Township"
+      },
+      "元長鄉": {
+        "zipcode": "655",
+        "en": "Yuanchang Township"
+      }
+    }
+  },
+  "臺南市": {
+    "en": " Tainan City",
+    "districts": {
+      "中西區": {
+        "zipcode": "700",
+        "en": "West Central Dist."
+      },
+      "東區": {
+        "zipcode": "701",
+        "en": "East Dist."
+      },
+      "南區": {
+        "zipcode": "702",
+        "en": "South Dist."
+      },
+      "北區": {
+        "zipcode": "704",
+        "en": "North Dist."
+      },
+      "安平區": {
+        "zipcode": "708",
+        "en": "Anping Dist."
+      },
+      "安南區": {
+        "zipcode": "709",
+        "en": "Annan Dist."
+      },
+      "永康區": {
+        "zipcode": "710",
+        "en": "Yongkang Dist."
+      },
+      "歸仁區": {
+        "zipcode": "711",
+        "en": "Guiren Dist."
+      },
+      "新化區": {
+        "zipcode": "712",
+        "en": "Xinhua Dist."
+      },
+      "左鎮區": {
+        "zipcode": "713",
+        "en": "Zuozhen Dist."
+      },
+      "玉井區": {
+        "zipcode": "714",
+        "en": "Yujing Dist."
+      },
+      "楠西區": {
+        "zipcode": "715",
+        "en": "Nanxi Dist."
+      },
+      "南化區": {
+        "zipcode": "716",
+        "en": "Nanhua Dist."
+      },
+      "仁德區": {
+        "zipcode": "717",
+        "en": "Rende Dist."
+      },
+      "關廟區": {
+        "zipcode": "718",
+        "en": "Guanmiao Dist."
+      },
+      "龍崎區": {
+        "zipcode": "719",
+        "en": "Longqi Dist."
+      },
+      "官田區": {
+        "zipcode": "720",
+        "en": "Guantian Dist."
+      },
+      "麻豆區": {
+        "zipcode": "721",
+        "en": "Madou Dist."
+      },
+      "佳里區": {
+        "zipcode": "722",
+        "en": "Jiali Dist."
+      },
+      "西港區": {
+        "zipcode": "723",
+        "en": "Xigang Dist."
+      },
+      "七股區": {
+        "zipcode": "724",
+        "en": "Qigu Dist."
+      },
+      "將軍區": {
+        "zipcode": "725",
+        "en": "Jiangjun Dist."
+      },
+      "學甲區": {
+        "zipcode": "726",
+        "en": "Xuejia Dist."
+      },
+      "北門區": {
+        "zipcode": "727",
+        "en": "Beimen Dist."
+      },
+      "新營區": {
+        "zipcode": "730",
+        "en": "Xinying Dist."
+      },
+      "後壁區": {
+        "zipcode": "731",
+        "en": "Houbi Dist."
+      },
+      "白河區": {
+        "zipcode": "732",
+        "en": "Baihe Dist."
+      },
+      "東山區": {
+        "zipcode": "733",
+        "en": "Dongshan Dist."
+      },
+      "六甲區": {
+        "zipcode": "734",
+        "en": "Liujia Dist."
+      },
+      "下營區": {
+        "zipcode": "735",
+        "en": "Xiaying Dist."
+      },
+      "柳營區": {
+        "zipcode": "736",
+        "en": "Liuying Dist."
+      },
+      "鹽水區": {
+        "zipcode": "737",
+        "en": "Yanshui Dist."
+      },
+      "善化區": {
+        "zipcode": "741",
+        "en": "Shanhua Dist."
+      },
+      "大內區": {
+        "zipcode": "742",
+        "en": "Danei Dist."
+      },
+      "山上區": {
+        "zipcode": "743",
+        "en": "Shanshang Dist."
+      },
+      "新市區": {
+        "zipcode": "744",
+        "en": "Xinshi Dist."
+      },
+      "安定區": {
+        "zipcode": "745",
+        "en": "Anding Dist."
+      }
+    }
+  },
+  "高雄市": {
+    "en": " Kaohsiung City",
+    "districts": {
+      "新興區": {
+        "zipcode": "800",
+        "en": "Xinxing Dist."
+      },
+      "前金區": {
+        "zipcode": "801",
+        "en": "Qianjin Dist."
+      },
+      "苓雅區": {
+        "zipcode": "802",
+        "en": "Lingya Dist."
+      },
+      "鹽埕區": {
+        "zipcode": "803",
+        "en": "Yancheng Dist."
+      },
+      "鼓山區": {
+        "zipcode": "804",
+        "en": "Gushan Dist."
+      },
+      "旗津區": {
+        "zipcode": "805",
+        "en": "Qijin Dist."
+      },
+      "前鎮區": {
+        "zipcode": "806",
+        "en": "Qianzhen Dist."
+      },
+      "三民區": {
+        "zipcode": "807",
+        "en": "Sanmin Dist."
+      },
+      "楠梓區": {
+        "zipcode": "811",
+        "en": "Nanzi Dist."
+      },
+      "小港區": {
+        "zipcode": "812",
+        "en": "Xiaogang Dist."
+      },
+      "左營區": {
+        "zipcode": "813",
+        "en": "Zuoying Dist."
+      },
+      "仁武區": {
+        "zipcode": "814",
+        "en": "Renwu Dist."
+      },
+      "大社區": {
+        "zipcode": "815",
+        "en": "Dashe Dist."
+      },
+      "東沙群島": {
+        "zipcode": "817",
+        "en": "Dongsha Islands"
+      },
+      "南沙群島": {
+        "zipcode": "819",
+        "en": "Nansha Islands"
+      },
+      "岡山區": {
+        "zipcode": "820",
+        "en": "Gangshan Dist."
+      },
+      "路竹區": {
+        "zipcode": "821",
+        "en": "Luzhu Dist."
+      },
+      "阿蓮區": {
+        "zipcode": "822",
+        "en": "Alian Dist."
+      },
+      "田寮區": {
+        "zipcode": "823",
+        "en": "Tianliao Dist."
+      },
+      "燕巢區": {
+        "zipcode": "824",
+        "en": "Yanchao Dist."
+      },
+      "橋頭區": {
+        "zipcode": "825",
+        "en": "Qiaotou Dist."
+      },
+      "梓官區": {
+        "zipcode": "826",
+        "en": "Ziguan Dist."
+      },
+      "彌陀區": {
+        "zipcode": "827",
+        "en": "Mituo Dist."
+      },
+      "永安區": {
+        "zipcode": "828",
+        "en": "Yong’an Dist."
+      },
+      "湖內區": {
+        "zipcode": "829",
+        "en": "Hunei Dist."
+      },
+      "鳳山區": {
+        "zipcode": "830",
+        "en": "Fengshan Dist."
+      },
+      "大寮區": {
+        "zipcode": "831",
+        "en": "Daliao Dist."
+      },
+      "林園區": {
+        "zipcode": "832",
+        "en": "Linyuan Dist."
+      },
+      "鳥松區": {
+        "zipcode": "833",
+        "en": "Niaosong Dist."
+      },
+      "大樹區": {
+        "zipcode": "840",
+        "en": "Dashu Dist."
+      },
+      "旗山區": {
+        "zipcode": "842",
+        "en": "Qishan Dist."
+      },
+      "美濃區": {
+        "zipcode": "843",
+        "en": "Meinong Dist."
+      },
+      "六龜區": {
+        "zipcode": "844",
+        "en": "Liugui Dist."
+      },
+      "內門區": {
+        "zipcode": "845",
+        "en": "Neimen Dist."
+      },
+      "杉林區": {
+        "zipcode": "846",
+        "en": "Shanlin Dist."
+      },
+      "甲仙區": {
+        "zipcode": "847",
+        "en": "Jiaxian Dist."
+      },
+      "桃源區": {
+        "zipcode": "848",
+        "en": "Taoyuan Dist."
+      },
+      "那瑪夏區": {
+        "zipcode": "849",
+        "en": "Namaxia Dist."
+      },
+      "茂林區": {
+        "zipcode": "851",
+        "en": "Maolin Dist."
+      },
+      "茄萣區": {
+        "zipcode": "852",
+        "en": "Qieding Dist."
+      }
+    }
+  },
+  "屏東縣": {
+    "en": " Pingtung County",
+    "districts": {
+      "屏東市": {
+        "zipcode": "900",
+        "en": "Pingtung City"
+      },
+      "三地門鄉": {
+        "zipcode": "901",
+        "en": "Sandimen Township"
+      },
+      "霧臺鄉": {
+        "zipcode": "902",
+        "en": "Wutai Township"
+      },
+      "瑪家鄉": {
+        "zipcode": "903",
+        "en": "Majia Township"
+      },
+      "九如鄉": {
+        "zipcode": "904",
+        "en": "Jiuru Township"
+      },
+      "里港鄉": {
+        "zipcode": "905",
+        "en": "Ligang Township"
+      },
+      "高樹鄉": {
+        "zipcode": "906",
+        "en": "Gaoshu Township"
+      },
+      "鹽埔鄉": {
+        "zipcode": "907",
+        "en": "Yanpu Township"
+      },
+      "長治鄉": {
+        "zipcode": "908",
+        "en": "Changzhi Township"
+      },
+      "麟洛鄉": {
+        "zipcode": "909",
+        "en": "Linluo Township"
+      },
+      "竹田鄉": {
+        "zipcode": "911",
+        "en": "Zhutian Township"
+      },
+      "內埔鄉": {
+        "zipcode": "912",
+        "en": "Neipu Township"
+      },
+      "萬丹鄉": {
+        "zipcode": "913",
+        "en": "Wandan Township"
+      },
+      "潮州鎮": {
+        "zipcode": "920",
+        "en": "Chaozhou Township"
+      },
+      "泰武鄉": {
+        "zipcode": "921",
+        "en": "Taiwu Township"
+      },
+      "來義鄉": {
+        "zipcode": "922",
+        "en": "Laiyi Township"
+      },
+      "萬巒鄉": {
+        "zipcode": "923",
+        "en": "Wanluan Township"
+      },
+      "崁頂鄉": {
+        "zipcode": "924",
+        "en": "Kanding Township"
+      },
+      "新埤鄉": {
+        "zipcode": "925",
+        "en": "Xinpi Township"
+      },
+      "南州鄉": {
+        "zipcode": "926",
+        "en": "Nanzhou Township"
+      },
+      "林邊鄉": {
+        "zipcode": "927",
+        "en": "Linbian Township"
+      },
+      "東港鎮": {
+        "zipcode": "928",
+        "en": "Donggang Township"
+      },
+      "琉球鄉": {
+        "zipcode": "929",
+        "en": "Liuqiu Township"
+      },
+      "佳冬鄉": {
+        "zipcode": "931",
+        "en": "Jiadong Township"
+      },
+      "新園鄉": {
+        "zipcode": "932",
+        "en": "Xinyuan Township"
+      },
+      "枋寮鄉": {
+        "zipcode": "940",
+        "en": "Fangliao Township"
+      },
+      "枋山鄉": {
+        "zipcode": "941",
+        "en": "Fangshan Township"
+      },
+      "春日鄉": {
+        "zipcode": "942",
+        "en": "Chunri Township"
+      },
+      "獅子鄉": {
+        "zipcode": "943",
+        "en": "Shizi Township"
+      },
+      "車城鄉": {
+        "zipcode": "944",
+        "en": "Checheng Township"
+      },
+      "牡丹鄉": {
+        "zipcode": "945",
+        "en": "Mudan Township"
+      },
+      "恆春鎮": {
+        "zipcode": "946",
+        "en": "Hengchun Township"
+      },
+      "滿州鄉": {
+        "zipcode": "947",
+        "en": "Manzhou Township"
+      }
+    }
+  },
+  "臺東縣": {
+    "en": " Taitung County",
+    "districts": {
+      "臺東市": {
+        "zipcode": "950",
+        "en": "Taitung City"
+      },
+      "綠島鄉": {
+        "zipcode": "951",
+        "en": "Ludao Township"
+      },
+      "蘭嶼鄉": {
+        "zipcode": "952",
+        "en": "Lanyu Township"
+      },
+      "延平鄉": {
+        "zipcode": "953",
+        "en": "Yanping Township"
+      },
+      "卑南鄉": {
+        "zipcode": "954",
+        "en": "Beinan Township"
+      },
+      "鹿野鄉": {
+        "zipcode": "955",
+        "en": "Luye Township"
+      },
+      "關山鎮": {
+        "zipcode": "956",
+        "en": "Guanshan Township"
+      },
+      "海端鄉": {
+        "zipcode": "957",
+        "en": "Haiduan Township"
+      },
+      "池上鄉": {
+        "zipcode": "958",
+        "en": "Chishang Township"
+      },
+      "東河鄉": {
+        "zipcode": "959",
+        "en": "Donghe Township"
+      },
+      "成功鎮": {
+        "zipcode": "961",
+        "en": "Chenggong Township"
+      },
+      "長濱鄉": {
+        "zipcode": "962",
+        "en": "Changbin Township"
+      },
+      "太麻里鄉": {
+        "zipcode": "963",
+        "en": "Taimali Township"
+      },
+      "金峰鄉": {
+        "zipcode": "964",
+        "en": "Jinfeng Township"
+      },
+      "大武鄉": {
+        "zipcode": "965",
+        "en": "Dawu Township"
+      },
+      "達仁鄉": {
+        "zipcode": "966",
+        "en": "Daren Township"
+      }
+    }
+  },
+  "花蓮縣": {
+    "en": " Hualien County",
+    "districts": {
+      "花蓮市": {
+        "zipcode": "970",
+        "en": "Hualien City"
+      },
+      "新城鄉": {
+        "zipcode": "971",
+        "en": "Xincheng Township"
+      },
+      "秀林鄉": {
+        "zipcode": "972",
+        "en": "Xiulin Township"
+      },
+      "吉安鄉": {
+        "zipcode": "973",
+        "en": "Ji’an Township"
+      },
+      "壽豐鄉": {
+        "zipcode": "974",
+        "en": "Shoufeng Township"
+      },
+      "鳳林鎮": {
+        "zipcode": "975",
+        "en": "Fenglin Township"
+      },
+      "光復鄉": {
+        "zipcode": "976",
+        "en": "Guangfu Township"
+      },
+      "豐濱鄉": {
+        "zipcode": "977",
+        "en": "Fengbin Township"
+      },
+      "瑞穗鄉": {
+        "zipcode": "978",
+        "en": "Ruisui Township"
+      },
+      "萬榮鄉": {
+        "zipcode": "979",
+        "en": "Wanrong Township"
+      },
+      "玉里鎮": {
+        "zipcode": "981",
+        "en": "Yuli Township"
+      },
+      "卓溪鄉": {
+        "zipcode": "982",
+        "en": "Zhuoxi Township"
+      },
+      "富里鄉": {
+        "zipcode": "983",
+        "en": "Fuli Township"
+      }
+    }
+  },
+  "金門縣": {
+    "en": " Kinmen County",
+    "districts": {
+      "金沙鎮": {
+        "zipcode": "890",
+        "en": "Jinsha Township"
+      },
+      "金湖鎮": {
+        "zipcode": "891",
+        "en": "Jinhu Township"
+      },
+      "金寧鄉": {
+        "zipcode": "892",
+        "en": "Jinning Township"
+      },
+      "金城鎮": {
+        "zipcode": "893",
+        "en": "Jincheng Township"
+      },
+      "烈嶼鄉": {
+        "zipcode": "894",
+        "en": "Lieyu Township"
+      },
+      "烏坵鄉": {
+        "zipcode": "896",
+        "en": "Wuqiu Township"
+      }
+    }
+  },
+  "連江縣": {
+    "en": " Lienchiang County",
+    "districts": {
+      "南竿鄉": {
+        "zipcode": "209",
+        "en": "Nangan Township"
+      },
+      "北竿鄉": {
+        "zipcode": "210",
+        "en": "Beigan Township"
+      },
+      "莒光鄉": {
+        "zipcode": "211",
+        "en": "Juguang Township"
+      },
+      "東引鄉": {
+        "zipcode": "212",
+        "en": "Dongyin Township"
+      }
+    }
+  },
+  "澎湖縣": {
+    "en": " Penghu County",
+    "districts": {
+      "馬公市": {
+        "zipcode": "880",
+        "en": "Magong City"
+      },
+      "西嶼鄉": {
+        "zipcode": "881",
+        "en": "Xiyu Township"
+      },
+      "望安鄉": {
+        "zipcode": "882",
+        "en": "Wang’an Township"
+      },
+      "七美鄉": {
+        "zipcode": "883",
+        "en": "Qimei Township"
+      },
+      "白沙鄉": {
+        "zipcode": "884",
+        "en": "Baisha Township"
+      },
+      "湖西鄉": {
+        "zipcode": "885",
+        "en": "Huxi Township"
+      }
+    }
+  }
+}

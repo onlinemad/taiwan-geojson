@@ -549,7 +549,7 @@
                 "TOWNSN": "10009010",
                 "TOWNID": "1000916",
                 "COUNTYNAME": "雲林縣",
-                "TOWNNAME": "台西鄉"
+                "TOWNNAME": "臺西鄉"
             },
             "geometry": null
         },
@@ -559,7 +559,7 @@
                 "TOWNSN": "10009011",
                 "TOWNID": "1000916",
                 "COUNTYNAME": "雲林縣",
-                "TOWNNAME": "台西鄉"
+                "TOWNNAME": "臺西鄉"
             },
             "geometry": null
         },
@@ -569,7 +569,7 @@
                 "TOWNSN": "10009012",
                 "TOWNID": "1000916",
                 "COUNTYNAME": "雲林縣",
-                "TOWNNAME": "台西鄉"
+                "TOWNNAME": "臺西鄉"
             },
             "geometry": null
         },
@@ -651,7 +651,7 @@
                 "TOWNSN": "10009014",
                 "TOWNID": "1000916",
                 "COUNTYNAME": "雲林縣",
-                "TOWNNAME": "台西鄉"
+                "TOWNNAME": "臺西鄉"
             },
             "geometry": {
                 "type": "Polygon",
@@ -951,7 +951,7 @@
                 "TOWNSN": "10009017",
                 "TOWNID": "1000914",
                 "COUNTYNAME": "雲林縣",
-                "TOWNNAME": "東勢區"
+                "TOWNNAME": "東勢鄉"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2067,7 +2067,7 @@
                 "TOWNSN": "10003001",
                 "TOWNID": "1000306",
                 "COUNTYNAME": "桃園市",
-                "TOWNNAME": "大園鄉"
+                "TOWNNAME": "大園區"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2287,7 +2287,7 @@
                 "TOWNSN": "10003003",
                 "TOWNID": "1000312",
                 "COUNTYNAME": "桃園市",
-                "TOWNNAME": "觀音鄉"
+                "TOWNNAME": "觀音區"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2659,7 +2659,7 @@
                 "TOWNSN": "10003007",
                 "TOWNID": "1000311",
                 "COUNTYNAME": "桃園市",
-                "TOWNNAME": "新屋鄉"
+                "TOWNNAME": "新屋區"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3255,7 +3255,7 @@
                 "TOWNSN": "10003013",
                 "TOWNID": "1000313",
                 "COUNTYNAME": "桃園市",
-                "TOWNNAME": "復興鄉"
+                "TOWNNAME": "復興區"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3446,7 +3446,7 @@
             "properties": {
                 "TOWNSN": "10014001",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": {
@@ -3578,7 +3578,7 @@
             "properties": {
                 "TOWNSN": "10014002",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3588,7 +3588,7 @@
             "properties": {
                 "TOWNSN": "10014003",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3598,7 +3598,7 @@
             "properties": {
                 "TOWNSN": "10014004",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3608,7 +3608,7 @@
             "properties": {
                 "TOWNSN": "10014005",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3618,7 +3618,7 @@
             "properties": {
                 "TOWNSN": "10014006",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3628,7 +3628,7 @@
             "properties": {
                 "TOWNSN": "10014007",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3638,7 +3638,7 @@
             "properties": {
                 "TOWNSN": "10014008",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3648,7 +3648,7 @@
             "properties": {
                 "TOWNSN": "10014009",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3658,7 +3658,7 @@
             "properties": {
                 "TOWNSN": "10014010",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3668,7 +3668,7 @@
             "properties": {
                 "TOWNSN": "10014011",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3678,7 +3678,7 @@
             "properties": {
                 "TOWNSN": "10014012",
                 "TOWNID": "1001408",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "長濱鄉"
             },
             "geometry": null
@@ -3688,7 +3688,7 @@
             "properties": {
                 "TOWNSN": "10014013",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3698,7 +3698,7 @@
             "properties": {
                 "TOWNSN": "10014014",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3708,7 +3708,7 @@
             "properties": {
                 "TOWNSN": "10014015",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3718,7 +3718,7 @@
             "properties": {
                 "TOWNSN": "10014016",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3728,7 +3728,7 @@
             "properties": {
                 "TOWNSN": "10014017",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3738,7 +3738,7 @@
             "properties": {
                 "TOWNSN": "10014018",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3748,7 +3748,7 @@
             "properties": {
                 "TOWNSN": "10014019",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -3758,7 +3758,7 @@
             "properties": {
                 "TOWNSN": "10014020",
                 "TOWNID": "1001412",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "海端鄉"
             },
             "geometry": {
@@ -4030,7 +4030,7 @@
             "properties": {
                 "TOWNSN": "10014021",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4040,7 +4040,7 @@
             "properties": {
                 "TOWNSN": "10014022",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4050,7 +4050,7 @@
             "properties": {
                 "TOWNSN": "10014023",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4060,7 +4060,7 @@
             "properties": {
                 "TOWNSN": "10014024",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4070,7 +4070,7 @@
             "properties": {
                 "TOWNSN": "10014025",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4080,7 +4080,7 @@
             "properties": {
                 "TOWNSN": "10014026",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4090,7 +4090,7 @@
             "properties": {
                 "TOWNSN": "10014027",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4100,7 +4100,7 @@
             "properties": {
                 "TOWNSN": "10014028",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4110,7 +4110,7 @@
             "properties": {
                 "TOWNSN": "10014029",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4120,7 +4120,7 @@
             "properties": {
                 "TOWNSN": "10014030",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4130,7 +4130,7 @@
             "properties": {
                 "TOWNSN": "10014031",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4140,7 +4140,7 @@
             "properties": {
                 "TOWNSN": "10014032",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4150,7 +4150,7 @@
             "properties": {
                 "TOWNSN": "10014033",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4160,7 +4160,7 @@
             "properties": {
                 "TOWNSN": "10014034",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": {
@@ -4320,7 +4320,7 @@
             "properties": {
                 "TOWNSN": "10014035",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4330,7 +4330,7 @@
             "properties": {
                 "TOWNSN": "10014036",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4340,7 +4340,7 @@
             "properties": {
                 "TOWNSN": "10014037",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4350,7 +4350,7 @@
             "properties": {
                 "TOWNSN": "10014038",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4360,7 +4360,7 @@
             "properties": {
                 "TOWNSN": "10014039",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4370,7 +4370,7 @@
             "properties": {
                 "TOWNSN": "10014040",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4380,7 +4380,7 @@
             "properties": {
                 "TOWNSN": "10014041",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4390,7 +4390,7 @@
             "properties": {
                 "TOWNSN": "10014042",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4400,7 +4400,7 @@
             "properties": {
                 "TOWNSN": "10014043",
                 "TOWNID": "1001406",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "池上鄉"
             },
             "geometry": {
@@ -4496,7 +4496,7 @@
             "properties": {
                 "TOWNSN": "10014044",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4506,7 +4506,7 @@
             "properties": {
                 "TOWNSN": "10014045",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4516,7 +4516,7 @@
             "properties": {
                 "TOWNSN": "10014046",
                 "TOWNID": "1001402",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "成功鎮"
             },
             "geometry": null
@@ -4526,7 +4526,7 @@
             "properties": {
                 "TOWNSN": "10014047",
                 "TOWNID": "1001403",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "關山鎮"
             },
             "geometry": {
@@ -4618,7 +4618,7 @@
             "properties": {
                 "TOWNSN": "10014048",
                 "TOWNID": "1001407",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "東河鄉"
             },
             "geometry": {
@@ -4762,7 +4762,7 @@
             "properties": {
                 "TOWNSN": "10014049",
                 "TOWNID": "1001405",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "鹿野鄉"
             },
             "geometry": {
@@ -4858,7 +4858,7 @@
             "properties": {
                 "TOWNSN": "10014050",
                 "TOWNID": "1001407",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "東河鄉"
             },
             "geometry": null
@@ -4868,7 +4868,7 @@
             "properties": {
                 "TOWNSN": "10014051",
                 "TOWNID": "1001407",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "東河鄉"
             },
             "geometry": null
@@ -4878,7 +4878,7 @@
             "properties": {
                 "TOWNSN": "10014052",
                 "TOWNID": "1001413",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "延平鄉"
             },
             "geometry": {
@@ -5130,7 +5130,7 @@
             "properties": {
                 "TOWNSN": "10014053",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": null
@@ -5140,7 +5140,7 @@
             "properties": {
                 "TOWNSN": "10014054",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": null
@@ -5150,7 +5150,7 @@
             "properties": {
                 "TOWNSN": "10014055",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": null
@@ -5160,7 +5160,7 @@
             "properties": {
                 "TOWNSN": "10014056",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": null
@@ -5170,7 +5170,7 @@
             "properties": {
                 "TOWNSN": "10014057",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": null
@@ -5180,7 +5180,7 @@
             "properties": {
                 "TOWNSN": "10014058",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": null
@@ -5190,7 +5190,7 @@
             "properties": {
                 "TOWNSN": "10014059",
                 "TOWNID": "1001404",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "卑南鄉"
             },
             "geometry": {
@@ -5434,8 +5434,8 @@
             "properties": {
                 "TOWNSN": "10014060",
                 "TOWNID": "1001401",
-                "COUNTYNAME": "台東縣",
-                "TOWNNAME": "台東市"
+                "COUNTYNAME": "臺東縣",
+                "TOWNNAME": "臺東市"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5550,7 +5550,7 @@
             "properties": {
                 "TOWNSN": "10014061",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5560,7 +5560,7 @@
             "properties": {
                 "TOWNSN": "10014062",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5570,7 +5570,7 @@
             "properties": {
                 "TOWNSN": "10014063",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5580,7 +5580,7 @@
             "properties": {
                 "TOWNSN": "10014064",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5590,7 +5590,7 @@
             "properties": {
                 "TOWNSN": "10014065",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5600,7 +5600,7 @@
             "properties": {
                 "TOWNSN": "10014066",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5610,7 +5610,7 @@
             "properties": {
                 "TOWNSN": "10014067",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5620,7 +5620,7 @@
             "properties": {
                 "TOWNSN": "10014068",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5630,7 +5630,7 @@
             "properties": {
                 "TOWNSN": "10014069",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5640,7 +5640,7 @@
             "properties": {
                 "TOWNSN": "10014070",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5650,7 +5650,7 @@
             "properties": {
                 "TOWNSN": "10014071",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5660,7 +5660,7 @@
             "properties": {
                 "TOWNSN": "10014072",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": {
@@ -5712,7 +5712,7 @@
             "properties": {
                 "TOWNSN": "10014073",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5722,7 +5722,7 @@
             "properties": {
                 "TOWNSN": "10014074",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5732,7 +5732,7 @@
             "properties": {
                 "TOWNSN": "10014075",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5742,7 +5742,7 @@
             "properties": {
                 "TOWNSN": "10014076",
                 "TOWNID": "1001411",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "綠島鄉"
             },
             "geometry": null
@@ -5752,7 +5752,7 @@
             "properties": {
                 "TOWNSN": "10014077",
                 "TOWNID": "1001414",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "金峰鄉"
             },
             "geometry": {
@@ -5948,7 +5948,7 @@
             "properties": {
                 "TOWNSN": "10014078",
                 "TOWNID": "1001409",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "太麻里鄉"
             },
             "geometry": {
@@ -6092,7 +6092,7 @@
             "properties": {
                 "TOWNSN": "10014079",
                 "TOWNID": "1001410",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "大武鄉"
             },
             "geometry": {
@@ -6184,7 +6184,7 @@
             "properties": {
                 "TOWNSN": "10014080",
                 "TOWNID": "1001415",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "達仁鄉"
             },
             "geometry": {
@@ -6396,7 +6396,7 @@
             "properties": {
                 "TOWNSN": "10014081",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6406,7 +6406,7 @@
             "properties": {
                 "TOWNSN": "10014082",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6416,7 +6416,7 @@
             "properties": {
                 "TOWNSN": "10014083",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6426,7 +6426,7 @@
             "properties": {
                 "TOWNSN": "10014084",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6436,7 +6436,7 @@
             "properties": {
                 "TOWNSN": "10014085",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6446,7 +6446,7 @@
             "properties": {
                 "TOWNSN": "10014086",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6456,7 +6456,7 @@
             "properties": {
                 "TOWNSN": "10014087",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6466,7 +6466,7 @@
             "properties": {
                 "TOWNSN": "10014088",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6476,7 +6476,7 @@
             "properties": {
                 "TOWNSN": "10014089",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6486,7 +6486,7 @@
             "properties": {
                 "TOWNSN": "10014090",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6496,7 +6496,7 @@
             "properties": {
                 "TOWNSN": "10014091",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6506,7 +6506,7 @@
             "properties": {
                 "TOWNSN": "10014092",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": {
@@ -6578,7 +6578,7 @@
             "properties": {
                 "TOWNSN": "10014093",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6588,7 +6588,7 @@
             "properties": {
                 "TOWNSN": "10014094",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6598,7 +6598,7 @@
             "properties": {
                 "TOWNSN": "10014095",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6608,7 +6608,7 @@
             "properties": {
                 "TOWNSN": "10014096",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6618,7 +6618,7 @@
             "properties": {
                 "TOWNSN": "10014097",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6628,7 +6628,7 @@
             "properties": {
                 "TOWNSN": "10014098",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6638,7 +6638,7 @@
             "properties": {
                 "TOWNSN": "10014099",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -6648,7 +6648,7 @@
             "properties": {
                 "TOWNSN": "10014100",
                 "TOWNID": "1001416",
-                "COUNTYNAME": "台東縣",
+                "COUNTYNAME": "臺東縣",
                 "TOWNNAME": "蘭嶼鄉"
             },
             "geometry": null
@@ -9894,7 +9894,7 @@
             "properties": {
                 "TOWNSN": "63000001",
                 "TOWNID": "6300012",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "北投區"
             },
             "geometry": {
@@ -9978,7 +9978,7 @@
             "properties": {
                 "TOWNSN": "63000002",
                 "TOWNID": "6300011",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "士林區"
             },
             "geometry": {
@@ -10098,7 +10098,7 @@
             "properties": {
                 "TOWNSN": "63000003",
                 "TOWNID": "6300010",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "內湖區"
             },
             "geometry": {
@@ -10158,7 +10158,7 @@
             "properties": {
                 "TOWNSN": "63000004",
                 "TOWNID": "6300004",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "中山區"
             },
             "geometry": {
@@ -10214,7 +10214,7 @@
             "properties": {
                 "TOWNSN": "63000005",
                 "TOWNID": "6300006",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "大同區"
             },
             "geometry": {
@@ -10254,7 +10254,7 @@
             "properties": {
                 "TOWNSN": "63000006",
                 "TOWNID": "6300001",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "松山區"
             },
             "geometry": {
@@ -10306,7 +10306,7 @@
             "properties": {
                 "TOWNSN": "63000007",
                 "TOWNID": "6300009",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "南港區"
             },
             "geometry": {
@@ -10386,7 +10386,7 @@
             "properties": {
                 "TOWNSN": "63000008",
                 "TOWNID": "6300007",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "萬華區"
             },
             "geometry": {
@@ -10434,7 +10434,7 @@
             "properties": {
                 "TOWNSN": "63000009",
                 "TOWNID": "6300005",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "中正區"
             },
             "geometry": {
@@ -10490,7 +10490,7 @@
             "properties": {
                 "TOWNSN": "63000010",
                 "TOWNID": "6300002",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "信義區"
             },
             "geometry": {
@@ -10534,7 +10534,7 @@
             "properties": {
                 "TOWNSN": "63000011",
                 "TOWNID": "6300003",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "大安區"
             },
             "geometry": {
@@ -10586,7 +10586,7 @@
             "properties": {
                 "TOWNSN": "63000012",
                 "TOWNID": "6300008",
-                "COUNTYNAME": "台北市",
+                "COUNTYNAME": "臺北市",
                 "TOWNNAME": "文山區"
             },
             "geometry": {
@@ -10670,7 +10670,7 @@
             "properties": {
                 "TOWNSN": "10011001",
                 "TOWNID": "1001105",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "後壁區"
             },
             "geometry": {
@@ -10774,7 +10774,7 @@
             "properties": {
                 "TOWNSN": "10011002",
                 "TOWNID": "1001103",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "白河區"
             },
             "geometry": {
@@ -10902,7 +10902,7 @@
             "properties": {
                 "TOWNSN": "10011003",
                 "TOWNID": "1001102",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "鹽水區"
             },
             "geometry": {
@@ -11002,7 +11002,7 @@
             "properties": {
                 "TOWNSN": "10011004",
                 "TOWNID": "1001101",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "新營區"
             },
             "geometry": {
@@ -11098,7 +11098,7 @@
             "properties": {
                 "TOWNSN": "10011005",
                 "TOWNID": "1001117",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "北門區"
             },
             "geometry": {
@@ -11174,7 +11174,7 @@
             "properties": {
                 "TOWNSN": "10011006",
                 "TOWNID": "1001106",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "東山區"
             },
             "geometry": {
@@ -11294,7 +11294,7 @@
             "properties": {
                 "TOWNSN": "10011007",
                 "TOWNID": "1001104",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "柳營區"
             },
             "geometry": {
@@ -11390,7 +11390,7 @@
             "properties": {
                 "TOWNSN": "10011008",
                 "TOWNID": "1001113",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "學甲區"
             },
             "geometry": {
@@ -11498,7 +11498,7 @@
             "properties": {
                 "TOWNSN": "10011009",
                 "TOWNID": "1001108",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "下營區"
             },
             "geometry": {
@@ -11570,7 +11570,7 @@
             "properties": {
                 "TOWNSN": "10011010",
                 "TOWNID": "1001109",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "六甲區"
             },
             "geometry": {
@@ -11678,7 +11678,7 @@
             "properties": {
                 "TOWNSN": "10011011",
                 "TOWNID": "1001116",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "將軍區"
             },
             "geometry": {
@@ -11762,7 +11762,7 @@
             "properties": {
                 "TOWNSN": "10011012",
                 "TOWNID": "1001110",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "官田區"
             },
             "geometry": {
@@ -11854,7 +11854,7 @@
             "properties": {
                 "TOWNSN": "10011013",
                 "TOWNID": "1001107",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "麻豆區"
             },
             "geometry": {
@@ -11926,7 +11926,7 @@
             "properties": {
                 "TOWNSN": "10011014",
                 "TOWNID": "1001124",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "楠西區"
             },
             "geometry": {
@@ -12038,7 +12038,7 @@
             "properties": {
                 "TOWNSN": "10011015",
                 "TOWNID": "1001112",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "佳里區"
             },
             "geometry": {
@@ -12118,7 +12118,7 @@
             "properties": {
                 "TOWNSN": "10011016",
                 "TOWNID": "1001111",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "大內區"
             },
             "geometry": {
@@ -12214,7 +12214,7 @@
             "properties": {
                 "TOWNSN": "10011017",
                 "TOWNID": "1001119",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "善化區"
             },
             "geometry": {
@@ -12286,7 +12286,7 @@
             "properties": {
                 "TOWNSN": "10011018",
                 "TOWNID": "1001123",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "玉井區"
             },
             "geometry": {
@@ -12398,7 +12398,7 @@
             "properties": {
                 "TOWNSN": "10011019",
                 "TOWNID": "1001114",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "西港區"
             },
             "geometry": {
@@ -12462,7 +12462,7 @@
             "properties": {
                 "TOWNSN": "10011020",
                 "TOWNID": "1001115",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "七股區"
             },
             "geometry": {
@@ -12566,7 +12566,7 @@
             "properties": {
                 "TOWNSN": "10011021",
                 "TOWNID": "1001125",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "南化區"
             },
             "geometry": {
@@ -12738,7 +12738,7 @@
             "properties": {
                 "TOWNSN": "10011022",
                 "TOWNID": "1001122",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "山上區"
             },
             "geometry": {
@@ -12818,7 +12818,7 @@
             "properties": {
                 "TOWNSN": "10011023",
                 "TOWNID": "1001121",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "安定區"
             },
             "geometry": {
@@ -12882,7 +12882,7 @@
             "properties": {
                 "TOWNSN": "10011024",
                 "TOWNID": "1001120",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "新市區"
             },
             "geometry": {
@@ -12954,7 +12954,7 @@
             "properties": {
                 "TOWNSN": "10011025",
                 "TOWNID": "1001118",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "新化區"
             },
             "geometry": {
@@ -13050,7 +13050,7 @@
             "properties": {
                 "TOWNSN": "10011026",
                 "TOWNID": "1001131",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "永康區"
             },
             "geometry": {
@@ -13134,7 +13134,7 @@
             "properties": {
                 "TOWNSN": "10011027",
                 "TOWNID": "1001126",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "左鎮區"
             },
             "geometry": {
@@ -13242,7 +13242,7 @@
             "properties": {
                 "TOWNSN": "10011028",
                 "TOWNID": "1001130",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "龍崎區"
             },
             "geometry": {
@@ -13334,7 +13334,7 @@
             "properties": {
                 "TOWNSN": "10011029",
                 "TOWNID": "1001128",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "歸仁區"
             },
             "geometry": {
@@ -13414,7 +13414,7 @@
             "properties": {
                 "TOWNSN": "10011030",
                 "TOWNID": "1001129",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "關廟區"
             },
             "geometry": {
@@ -13522,7 +13522,7 @@
             "properties": {
                 "TOWNSN": "10011031",
                 "TOWNID": "1001127",
-                "COUNTYNAME": "台南縣",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "仁德區"
             },
             "geometry": {
@@ -13598,7 +13598,7 @@
             "properties": {
                 "TOWNSN": "10021001",
                 "TOWNID": "1002106",
-                "COUNTYNAME": "台南市",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "安南區"
             },
             "geometry": {
@@ -13694,7 +13694,7 @@
             "properties": {
                 "TOWNSN": "10021002",
                 "TOWNID": "1002104",
-                "COUNTYNAME": "台南市",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "北區"
             },
             "geometry": {
@@ -13738,7 +13738,7 @@
             "properties": {
                 "TOWNSN": "10021003",
                 "TOWNID": "1002102",
-                "COUNTYNAME": "台南市",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "中西區"
             },
             "geometry": {
@@ -13786,7 +13786,7 @@
             "properties": {
                 "TOWNSN": "10021005",
                 "TOWNID": "1002107",
-                "COUNTYNAME": "台南市",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "安平區"
             },
             "geometry": {
@@ -13834,7 +13834,7 @@
             "properties": {
                 "TOWNSN": "10021006",
                 "TOWNID": "1002101",
-                "COUNTYNAME": "台南市",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "東區"
             },
             "geometry": {
@@ -13882,7 +13882,7 @@
             "properties": {
                 "TOWNSN": "10021009",
                 "TOWNID": "1002103",
-                "COUNTYNAME": "台南市",
+                "COUNTYNAME": "臺南市",
                 "TOWNNAME": "南區"
             },
             "geometry": {
@@ -14999,7 +14999,7 @@
                 "TOWNSN": "10006015",
                 "TOWNID": "1000602",
                 "COUNTYNAME": "臺中市",
-                "TOWNNAME": "東勢鎮"
+                "TOWNNAME": "東勢區"
             },
             "geometry": {
                 "type": "Polygon",
@@ -15966,7 +15966,7 @@
             "properties": {
                 "TOWNSN": "10019001",
                 "TOWNID": "1001908",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "北屯區"
             },
             "geometry": {
@@ -16062,7 +16062,7 @@
             "properties": {
                 "TOWNSN": "10019002",
                 "TOWNID": "1001906",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "西屯區"
             },
             "geometry": {
@@ -16138,7 +16138,7 @@
             "properties": {
                 "TOWNSN": "10019003",
                 "TOWNID": "1001905",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "北區"
             },
             "geometry": {
@@ -16194,7 +16194,7 @@
             "properties": {
                 "TOWNSN": "10019004",
                 "TOWNID": "1001904",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "西區"
             },
             "geometry": {
@@ -16242,7 +16242,7 @@
             "properties": {
                 "TOWNSN": "10019005",
                 "TOWNID": "1001901",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "中區"
             },
             "geometry": {
@@ -16274,7 +16274,7 @@
             "properties": {
                 "TOWNSN": "10019006",
                 "TOWNID": "1001907",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "南屯區"
             },
             "geometry": {
@@ -16338,7 +16338,7 @@
             "properties": {
                 "TOWNSN": "10019007",
                 "TOWNID": "1001902",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "東區"
             },
             "geometry": {
@@ -16382,7 +16382,7 @@
             "properties": {
                 "TOWNSN": "10019008",
                 "TOWNID": "1001903",
-                "COUNTYNAME": "台中市",
+                "COUNTYNAME": "臺中市",
                 "TOWNNAME": "南區"
             },
             "geometry": {
@@ -16763,7 +16763,7 @@
                 "TOWNSN": "10013004",
                 "TOWNID": "1001327",
                 "COUNTYNAME": "屏東縣",
-                "TOWNNAME": "霧台鄉"
+                "TOWNNAME": "霧臺鄉"
             },
             "geometry": {
                 "type": "Polygon",
@@ -21957,7 +21957,7 @@
                 "TOWNSN": "10005002",
                 "TOWNID": "1000505",
                 "COUNTYNAME": "苗栗縣",
-                "TOWNNAME": "頭份鎮"
+                "TOWNNAME": "頭份市"
             },
             "geometry": {
                 "type": "Polygon",
@@ -24398,7 +24398,7 @@
             "properties": {
                 "TOWNSN": "10012001",
                 "TOWNID": "1001227",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "那瑪夏區"
             },
             "geometry": {
@@ -24538,7 +24538,7 @@
             "properties": {
                 "TOWNSN": "10012002",
                 "TOWNID": "1001226",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "桃源區"
             },
             "geometry": {
@@ -24866,7 +24866,7 @@
             "properties": {
                 "TOWNSN": "10012003",
                 "TOWNID": "1001222",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "甲仙區"
             },
             "geometry": {
@@ -24990,7 +24990,7 @@
             "properties": {
                 "TOWNSN": "10012004",
                 "TOWNID": "1001221",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "六龜區"
             },
             "geometry": {
@@ -25166,7 +25166,7 @@
             "properties": {
                 "TOWNSN": "10012005",
                 "TOWNID": "1001223",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "杉林區"
             },
             "geometry": {
@@ -25290,7 +25290,7 @@
             "properties": {
                 "TOWNSN": "10012006",
                 "TOWNID": "1001224",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "內門區"
             },
             "geometry": {
@@ -25406,7 +25406,7 @@
             "properties": {
                 "TOWNSN": "10012007",
                 "TOWNID": "1001225",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "茂林區"
             },
             "geometry": {
@@ -25578,7 +25578,7 @@
             "properties": {
                 "TOWNSN": "10012008",
                 "TOWNID": "1001220",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "美濃區"
             },
             "geometry": {
@@ -25698,7 +25698,7 @@
             "properties": {
                 "TOWNSN": "10012009",
                 "TOWNID": "1001214",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "湖內區"
             },
             "geometry": {
@@ -25762,7 +25762,7 @@
             "properties": {
                 "TOWNSN": "10012010",
                 "TOWNID": "1001215",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "茄萣區"
             },
             "geometry": {
@@ -25818,7 +25818,7 @@
             "properties": {
                 "TOWNSN": "10012011",
                 "TOWNID": "1001219",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "旗山區"
             },
             "geometry": {
@@ -25974,7 +25974,7 @@
             "properties": {
                 "TOWNSN": "10012012",
                 "TOWNID": "1001212",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "阿蓮區"
             },
             "geometry": {
@@ -26050,7 +26050,7 @@
             "properties": {
                 "TOWNSN": "10012013",
                 "TOWNID": "1001211",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "田寮區"
             },
             "geometry": {
@@ -26142,7 +26142,7 @@
             "properties": {
                 "TOWNSN": "10012014",
                 "TOWNID": "1001213",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "路竹區"
             },
             "geometry": {
@@ -26230,7 +26230,7 @@
             "properties": {
                 "TOWNSN": "10012015",
                 "TOWNID": "1001216",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "永安區"
             },
             "geometry": {
@@ -26298,7 +26298,7 @@
             "properties": {
                 "TOWNSN": "10012016",
                 "TOWNID": "1001208",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "岡山區"
             },
             "geometry": {
@@ -26386,7 +26386,7 @@
             "properties": {
                 "TOWNSN": "10012017",
                 "TOWNID": "1001210",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "燕巢區"
             },
             "geometry": {
@@ -26490,7 +26490,7 @@
             "properties": {
                 "TOWNSN": "10012018",
                 "TOWNID": "1001217",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "彌陀區"
             },
             "geometry": {
@@ -26542,7 +26542,7 @@
             "properties": {
                 "TOWNSN": "10012019",
                 "TOWNID": "1001209",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "橋頭區"
             },
             "geometry": {
@@ -26610,7 +26610,7 @@
             "properties": {
                 "TOWNSN": "10012020",
                 "TOWNID": "1001218",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "梓官區"
             },
             "geometry": {
@@ -26658,7 +26658,7 @@
             "properties": {
                 "TOWNSN": "10012021",
                 "TOWNID": "1001205",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "大社區"
             },
             "geometry": {
@@ -26734,7 +26734,7 @@
             "properties": {
                 "TOWNSN": "10012022",
                 "TOWNID": "1001204",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "大樹區"
             },
             "geometry": {
@@ -26814,7 +26814,7 @@
             "properties": {
                 "TOWNSN": "10012023",
                 "TOWNID": "1001206",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "仁武區"
             },
             "geometry": {
@@ -26886,7 +26886,7 @@
             "properties": {
                 "TOWNSN": "10012024",
                 "TOWNID": "1001207",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "鳥松區"
             },
             "geometry": {
@@ -26950,7 +26950,7 @@
             "properties": {
                 "TOWNSN": "10012025",
                 "TOWNID": "1001201",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "鳳山區"
             },
             "geometry": {
@@ -27014,7 +27014,7 @@
             "properties": {
                 "TOWNSN": "10012026",
                 "TOWNID": "1001203",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "大寮區"
             },
             "geometry": {
@@ -27098,7 +27098,7 @@
             "properties": {
                 "TOWNSN": "10012027",
                 "TOWNID": "1001202",
-                "COUNTYNAME": "高雄縣",
+                "COUNTYNAME": "高雄市",
                 "TOWNNAME": "林園區"
             },
             "geometry": {
@@ -37295,7 +37295,7 @@
                 "TOWNSN": "10007012",
                 "TOWNID": "1000710",
                 "COUNTYNAME": "彰化縣",
-                "TOWNNAME": "員林鎮"
+                "TOWNNAME": "員林市"
             },
             "geometry": {
                 "type": "Polygon",
